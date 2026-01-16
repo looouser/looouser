@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Hi! I'm Geovana from Brazil 🇧🇷<br><br>- I'm currently learning Python for backend development<br>- I have experience with Flask and MySQL<br>- Basic knowledge of HTML and CSS<br>- Interested in building web applications and APIs<br>- Always learning and improving my skills in technology</p>
+<p align="left">Hi! I'm Geovana from Brazil 🇧🇷<br><br>- I'm currently learning Python for backend development<br>- Interested in building web applications and APIs<br>- Always learning and improving my skills in technology</p>
 
 ###
 
